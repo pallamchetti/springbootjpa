@@ -1,0 +1,4 @@
+com\pallam\demo\controller\EmployeeController.class
+com\pallam\demo\model\Employee.class
+com\pallam\demo\dao\EmployeeRepo.class
+com\pallam\demo\BootjpaApplication.class

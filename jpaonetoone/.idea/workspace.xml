@@ -2,7 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf42002-427b-42a4-bae6-c773ccd5c4dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/main/webapp/WEB-INF/service-context-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/main/webapp/WEB-INF/sql/TestSuite.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/main/webapp/WEB-INF/student_dataset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/test/java/com/example/Runner/TestSuiteRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/test/java/com/example/TestCases/StudentTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/test/java/com/example/TestSuite/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/test/java/com/example/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/src/test/resources/TestSuite.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-aop-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-beans-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-context-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-core-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-expression-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-jcl-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-tx-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-web-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/lib/spring-webmvc-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/service-context-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/sql/TestSuite.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/student_dataset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/JUnitTestProject/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/m2e-wtp/web-resources/META-INF/maven/com.example.JUnitTestProject/JUnitTestProject/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/m2e-wtp/web-resources/META-INF/maven/com.example.JUnitTestProject/JUnitTestProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/surefire-reports/TEST-com.example.TestCases.StudentTableTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/surefire-reports/TEST-com.example.TestSuite.TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/surefire-reports/com.example.TestCases.StudentTableTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/surefire-reports/com.example.TestSuite.TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/test-classes/TestSuite.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/test-classes/com/example/Runner/TestSuiteRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/test-classes/com/example/TestCases/StudentTableTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/test-classes/com/example/TestCases/StudentTableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/test-classes/com/example/TestSuite/TestSuite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestProject/target/test-classes/com/example/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8predicate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8predicate/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java8predicate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8predicate/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/.idea/misc.xml" afterDir="false" />
@@ -16,6 +75,12 @@
       <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/src/main/java/com/example/jpa/repository/PostRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/src/main/java/com/example/jpa/repository/TagRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/target/classes/com/example/jpa/JpaManyToManyDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/target/classes/com/example/jpa/model/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/target/classes/com/example/jpa/model/Tag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/target/classes/com/example/jpa/repository/PostRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpamanytomanydemo/target/classes/com/example/jpa/repository/TagRepository.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/.idea/misc.xml" afterDir="false" />
@@ -33,9 +98,23 @@
       <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/src/main/java/com/example/jpa/repository/CommentRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/src/main/java/com/example/jpa/repository/PostRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/JpaOneToManyDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/controller/CommentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/controller/PostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/exception/ResourceNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/model/AuditModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/model/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/model/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/repository/CommentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaonetomanydemo/target/classes/com/example/jpa/repository/PostRepository.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpaonetoone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jpa/JpaOneToOneDemoApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jpa/model/Gender.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jpa/model/User.java" afterDir="false" />
@@ -43,9 +122,20 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jpa/repository/UserProfileRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jpa/repository/UserRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/jpa/JpaOneToOneDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/jpa/model/Gender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/jpa/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/jpa/model/UserProfile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/jpa/repository/UserProfileRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/jpa/repository/UserRepository.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/onetonetestmapping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/src/main/java/hibernate/test/HibernateUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/src/main/java/hibernate/test/TestForeignKeyAssociation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/src/main/java/hibernate/test/TestJoinTable.java" afterDir="false" />
@@ -56,10 +146,30 @@
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/src/main/java/hibernate/test/dto/joinTable/EmployeeEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/src/main/java/hibernate/test/dto/sharedPrimaryKey/AccountEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../onetonetestmapping/src/main/java/hibernate/test/dto/sharedPrimaryKey/EmployeeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/TestForeignKeyAssociation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/TestJoinTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/TestSharedPrimaryKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/dto/foreignKeyAsso/AccountEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/dto/foreignKeyAsso/EmployeeEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/dto/joinTable/AccountEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/dto/joinTable/EmployeeEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/dto/sharedPrimaryKey/AccountEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../onetonetestmapping/target/classes/hibernate/test/dto/sharedPrimaryKey/EmployeeEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../predicatejava8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/out/production/predicatejava8/com/PredicateExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/out/production/predicatejava8/com/PredicateInterfaceExample6$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/out/production/predicatejava8/com/PredicateInterfaceExample6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/out/production/predicatejava8/com/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../predicatejava8/predicatejava8.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../predicatejava8/src/com/PredicateExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../predicatejava8/src/com/PredicateInterfaceExample6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../predicatejava8/src/com/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbatch1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbatch1/xml/outputs/report.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbatch1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbatch1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbatch1/src/main/resources/spring/batch/config/database.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbatch1/src/main/resources/spring/batch/config/database.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbatch1/target/classes/spring/batch/config/database.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbatch1/target/classes/spring/batch/config/database.xml" afterDir="false" />
@@ -220,7 +330,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="50" />
     <option name="y" value="15" />
     <option name="width" value="1400" />

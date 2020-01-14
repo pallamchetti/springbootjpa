@@ -18,8 +18,9 @@
 		class="org.springframework.batch.support.transaction.ResourcelessTransactionManager" />
 
 	<jdbc:initialize-database data-source="dataSource">
-		<jdbc:script location="org/springframework/batch/core/schema-oracle10g.sql" />
 		<jdbc:script location="org/springframework/batch/core/schema-drop-oracle10g.sql" />
+		<jdbc:script location="org/springframework/batch/core/schema-oracle10g.sql" />
+
 
 	</jdbc:initialize-database>
 </beans>

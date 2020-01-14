@@ -1,0 +1,5 @@
+com\example\Runner\TestSuiteRunner.class
+com\example\TestCases\StudentTableTest.class
+com\example\model\Student.class
+com\example\TestCases\StudentTableTest$1.class
+com\example\TestSuite\TestSuite.class
